@@ -1,6 +1,2 @@
 Add vocabulary terms below.
 repository
-repository
-computer file
-Git
-fork
