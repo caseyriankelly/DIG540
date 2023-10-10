@@ -4,7 +4,7 @@ We'll further style our dynamic PHP pages, begin styling our Omeka S installs, a
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/HGa_eBss3k8>
 
 **Assignment**
 
